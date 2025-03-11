@@ -14,6 +14,7 @@ My research interests primarily lie in cybersecurity, computer vision, and artif
 
 Research Interests
 ------
+Cybersecurity; Adversarial Attacks; Artificial Intelligence; 
 
 Publications
 ------
