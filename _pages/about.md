@@ -19,4 +19,4 @@ Cybersecurity; Adversarial Attacks; Artificial Intelligence;
 Publications
 ------
 
-- <u>Jialin Lu</u>, Junjie Shan, Ziqi Zhao, Ka-Ho Chow, "AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection," arXiv preprint arXiv:2503.06529, Mar 9, 2025. [[PDF]](https://arxiv.org/abs/2503.06529) [[CODE]](https://github.com/HKU-TASR/AnywhereDoor)
+- <u>Jialin Lu</u>, Junjie Shan, Ziqi Zhao, Ka-Ho Chow, "AnywhereDoor: Multi-Target Backdoor Attacks on Object Detection," arXiv preprint arXiv:2503.06529, Mar 9, 2025. [[PDF]](https://arxiv.org/abs/2411.14243) [[CODE]](https://github.com/HKU-TASR/AnywhereDoor)
